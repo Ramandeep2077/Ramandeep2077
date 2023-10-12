@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats 📊
 <!-- GitHub Stats and Most Used Languages in the Same Row -->
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramandeep2077&show_icons=true&locale=en" alt="Ramandeep2077" style="margin-right: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramandeep2077&layout=compact&langs_count=4" alt="Top Langs" />
 </p>
