@@ -37,7 +37,8 @@ Here are some ideas to get you started:
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 </p>
 
-
+### :fire: Streaks 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghoshsuman845)](https://git.io/streak-stats)  
 
 ## Connect with me: 
 <p align="left">
