@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 </p>
 
 ## GitHub Stats 📊
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramandeep2077&show_icons=true&locale=en" alt="Ramandeep2077" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramandeep2077&show_icons=true&locale=en" alt="Ramandeep2077" />
 ### 📈 Github Stats (Amongst top 50%)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramandeep2077&layout=compact&langs_count=4)
+</p>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramandeep2077&show_icons=true&locale=en" alt="Ramandeep2077" /></p>
