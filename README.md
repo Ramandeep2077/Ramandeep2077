@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/ramandeep.singh.14606" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="rahulgrover1999" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramandeep2077&show_icons=true&locale=en" alt="Ramandeep2077" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramandeep2077&show_icons=true&locale=en" alt="Ramandeep2077" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramandeep2077&layout=compact&langs_count=4)</p>
 ### 📈 Github Stats (Amongst top 50%)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramandeep2077&layout=compact&langs_count=4)
+
 
 
 <!--
