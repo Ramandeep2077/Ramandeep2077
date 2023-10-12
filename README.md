@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 
 ### :fire: Streaks 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghoshsuman845)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ramandeep2077)](https://git.io/streak-stats)  
 
 ## Connect with me: 
 <p align="left">
