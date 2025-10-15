@@ -34,21 +34,29 @@
 ---
 
 ### 🔥 GitHub Streaks
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ramandeep2077&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ramandeep2077&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/Ramandeep2077" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" height="30" width="40"/></a>
-  <a href="https://www.linkedin.com/in/ramandeep-singh-110b97105" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://www.facebook.com/ramandeep.singh.14606" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="30" width="40"/></a>
+  <a href="https://twitter.com/Ramandeep2077" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ramandeep-singh-110b97105" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/ramandeep.singh.14606" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
+
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramandeep2077&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramandeep2077&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
